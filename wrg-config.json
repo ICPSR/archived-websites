@@ -1,12 +1,12 @@
 {
   "site": {
-    "title": "Web Replay Gen Example"
+    "title": "Archived Websites"
   },
   "archives": [
     {
-      "name": "Example",
-      "url": "https://replayweb.page/docs/assets/example.wacz",
-      "description": "ReplayWeb.Page web archive example"
+      "name": "MCC 2025-04-25",
+      "url": "https://g-02b403.a1bfb5.bd7c.data.globus.org/mcc-20250425144637292-e381660a-970-0.wacz",
+      "description": "https://www.mcc.gov as of 2025-04-25"
     },
     {
       "name": "Twitter",

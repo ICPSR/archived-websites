@@ -50,7 +50,7 @@ jobs:
         uses: actions/cache@v4
         with:
           path: _site
-          key: ${{ runner.os }}-11ty-build-${{ hashFiles('_site') }}
+          key: ${{ runner.os }}-11ty-build-${{ hashFiles('wrg-config.json') }}
           restore-keys: |
             ${{ runner.os }}-11ty-build-
       - name: Install dependencies

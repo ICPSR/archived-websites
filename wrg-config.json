@@ -9,9 +9,14 @@
       "description": "https://www.mcc.gov as of 2025-04-25"
     },
     {
-      "name": "Twitter",
-      "url": "s3://webrecorder-builds/warcs/netpreserve-twitter.warc",
-      "description": "Netpreserve Twitter web archive example"
-    }
+      "name": "MCC 2025-07-07",
+      "url": "https://g-02b403.a1bfb5.bd7c.data.globus.org/mcc-20250707151550487-e381660a-970-0.wacz",
+      "description": "https://www.mcc.gov as of 2025-07-07"
+    },
+        {
+      "name": "NIDA 2025-07-15",
+      "url": "https://g-02b403.a1bfb5.bd7c.data.globus.org/nida-20250715211016802-04ff18ec-0df-0.wacz",
+      "description": "https://archives.nida.nih.gov as of 2025-07-15"
+    },
   ]
 }

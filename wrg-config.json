@@ -22,6 +22,11 @@
       "name": "NIMHD as of 2026-06-11",
       "url": "https://g-1284b5.9601a.bd7c.data.globus.org/nimhd-nih.wacz",
       "description": "NIMHD as of 2026-06-11"
+    },
+    {
+      "name": "NIAID as of 2026-09-08",
+      "url": "https://g-1284b5.9601a.bd7c.data.globus.org/niaid-nih-warcs-wacz/niaid-nih.wacz",
+      "description": "NIAID as of 2026-09-08"
     }
   ]
 }

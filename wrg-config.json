@@ -32,23 +32,7 @@
       "name": "NIEHS as of 2026-08-18",
       "url": "https://g-1284b5.9601a.bd7c.data.globus.org/niehs-nih-warc-wacz/niehs-nih.wacz",
       "description": "NIEHS as of 2026-08-18"
-    },
-    {
-      "name": "NINR as of 2026-07-09",
-      "url": "https://g-1284b5.9601a.bd7c.data.globus.org/ninr-nih-warc-wacz/ninr-nih.wacz",
-      "description": "NINR as of 2026-07-09"
-    },
-    {
-      "name": "CSR as of 2026-06-30",
-      "url": "https://g-1284b5.9601a.bd7c.data.globus.org/csr-nih-warc-wacz/csr-nih.wacz",
-      "description": "CSR as of 2026-06-30"
-    },
-    {
-      "name": "NLM as of 2026-08-16",
-      "url": "https://g-1284b5.9601a.bd7c.data.globus.org/nlm-nih-warc-wacz/nlm-nih-2.wacz",
-      "description": "NLM as of 2026-08-16"
     }
-
   ]
 }
 

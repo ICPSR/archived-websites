@@ -14,7 +14,7 @@
       "description": "https://www.mcc.gov as of 2025-07-07"
     },
         {
-      "name": "NIDA 2025-07-15",
+      "name": "Archive Materials for NIDA as of 2025-07-15",
       "url": "https://g-02b403.a1bfb5.bd7c.data.globus.org/nida-20250715211016802-04ff18ec-0df-0.wacz",
       "description": "https://archives.nida.nih.gov as of 2025-07-15"
     },
@@ -52,8 +52,37 @@
       "name": "NIAAA as of 2026-04-21",
       "url": "https://g-1284b5.9601a.bd7c.data.globus.org/niaaa-nih-warc-wacz/niaaa-nih.wacz",
       "description": "NIAAA as of 2026-04-21"
+    },
+    {
+      "name": "NIAMS as of 2026-04-21",
+      "url": "https://g-1284b5.9601a.bd7c.data.globus.org/niams-nih-warc-wacz/niams-nih.wacz",
+      "description": "NIAMS as of 2026-04-21"
+    },
+    {
+      "name": "NBIB as of 2026-04-27",
+      "url": "https://g-1284b5.9601a.bd7c.data.globus.org/nibib-nih-warc-wacz/nibib-nih.wacz",
+      "description": "NBIB as of 2026-04-27"
+    },
+    {
+      "name": "NICHD as of 2026-04-27",
+      "url": "https://g-1284b5.9601a.bd7c.data.globus.org/nichd-nih-warc-wacz/nichd-nih.wacz",
+      "description": "NICHD as of 2026-04-27"
+    },
+    {
+      "name": "NIDCD as of 2026-04-27",
+      "url": "https://g-1284b5.9601a.bd7c.data.globus.org/nidcd-nih-warc-wacz/nidcd-nih.wacz",
+      "description": "NIDCD as of 2026-04-27"
+    },
+    {
+      "name": "NIDA as of 2026-04-29",
+      "url": "https://g-1284b5.9601a.bd7c.data.globus.org/nida-nih-warc-wacz/nida-nih.wacz",
+      "description": "NIDA as of 2026-04-29"
+    },
+    {
+      "name": "NIGMS as of 2026-05-02",
+      "url": "https://g-1284b5.9601a.bd7c.data.globus.org/nigms-nih-warc-wacz/nigms-nih.wacz",
+      "description": "NIGMS as of 2026-05-02"
     }
-
   ]
 }
 

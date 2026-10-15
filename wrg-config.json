@@ -82,6 +82,81 @@
       "name": "NIGMS as of 2026-05-02",
       "url": "https://g-1284b5.9601a.bd7c.data.globus.org/nigms-nih-warc-wacz/nigms-nih.wacz",
       "description": "NIGMS as of 2026-05-02"
+    },
+    {
+      "name": "NIDDK as of 2026-05-11",
+      "url": "https://g-1284b5.9601a.bd7c.data.globus.org/niddk-nih-warc-wacz/niddk-nih.wacz",
+      "description": "NIDDK as of 2026-05-11"
+    },
+    {
+      "name": "NINDS as of 2026-05-11",
+      "url": "https://g-1284b5.9601a.bd7c.data.globus.org/ninds-nih-warc-wacz/ninds-nih.wacz",
+      "description": "NINDS as of 2026-05-11"
+    },
+    {
+      "name": "NEI as of 2026-05-30",
+      "url": "https://g-1284b5.9601a.bd7c.data.globus.org/nei-nih-warc-wacz/nei-nih.wacz",
+      "description": "NEI as of 2026-05-30"
+    },
+    {
+      "name": "FIC as of 2026-05-30",
+      "url": "https://g-1284b5.9601a.bd7c.data.globus.org/fic-nih-warc-wacz/fic-nih.wacz",
+      "description": "FIC as of 2026-05-30"
+    },
+    {
+      "name": "NIA as of 2026-06-09",
+      "url": "https://g-1284b5.9601a.bd7c.data.globus.org/nia-nih-warc-wacz/nia-nih.wacz",
+      "description": "NIA as of 2026-06-09"
+    },
+    {
+      "name": "MedlinePlus as of 2026-06-11",
+      "url": "https://g-1284b5.9601a.bd7c.data.globus.org/medlineplus-warc-wacz/medlineplus.wacz",
+      "description": "MedlinePlus as of 2026-06-11"
+    },
+    {
+      "name": "Clinical Center as of 2026-06-16",
+      "url": "https://g-1284b5.9601a.bd7c.data.globus.org/cc-nih-warc-wacz/cc-nih.wacz",
+      "description": "Clinical Center as of 2026-06-16"
+    },
+    {
+      "name": "NIMH as of 2026-06-16",
+      "url": "https://g-1284b5.9601a.bd7c.data.globus.org/nimh-nih-warc-wacz/nimh-nih.wacz",
+      "description": "NIMH as of 2026-06-16"
+    },
+    {
+      "name": "NIDCR as of 2026-06-16",
+      "url": "https://g-1284b5.9601a.bd7c.data.globus.org/nidcr-nih-warc-wacz/nidcr-nih.wacz",
+      "description": "NIDCR as of 2026-06-16"
+    },
+    {
+      "name": "Office of Human Subjects Research Protections (Institutional Review Board Offices) as of 2026-06-20",
+      "url": "https://g-1284b5.9601a.bd7c.data.globus.org/irbo-nih-warc-wacz/irbo-nih.wacz",
+      "description": "Office of Human Subjects Research Protections (Institutional Review Board Offices) as of 2026-06-20"
+    },
+    {
+      "name": "Office of Strategic Coordination: The Common Fund as of 2026-06-20",
+      "url": "https://g-1284b5.9601a.bd7c.data.globus.org/commonfund-nih-warc-wacz/commonfund-nih.wacz",
+      "description": "Office of Strategic Coordination: The Common Fund as of 2026-06-20"
+    },
+    {
+      "name": "Office of Technology Transfer as of 2026-06-24",
+      "url": "https://g-1284b5.9601a.bd7c.data.globus.org/techtransfer-nih-warc-wacz/techtransfer-nih.wacz",
+      "description": "Office of Technology Transfer as of 2026-06-24"
+    },
+    {
+      "name": "Office of Animal Care and Use as of 2026-06-24",
+      "url": "https://g-1284b5.9601a.bd7c.data.globus.org/oacu-oir-nih-warc-wacz/oacu-oir-nih.wacz",
+      "description": "Office of Animal Care and Use as of 2026-06-24"
+    },
+    {
+      "name": "Office of Intramural Research as of 2026-06-24",
+      "url": "https://g-1284b5.9601a.bd7c.data.globus.org/oir-nih-warc-wacz/oir-nih.wacz",
+      "description": "Office of Intramural Research as of 2026-06-24"
+    },
+    {
+      "name": "History as of 2026-06-25",
+      "url": "https://g-1284b5.9601a.bd7c.data.globus.org/history-nih-warc-wacz/history-nih.wacz",
+      "description": "History as of 2026-06-25"
     }
   ]
 }

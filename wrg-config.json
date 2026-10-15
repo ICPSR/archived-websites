@@ -172,6 +172,11 @@
       "name": "NCATS as of 2026-06-29",
       "url": "https://g-1284b5.9601a.bd7c.data.globus.org/ncats-nih-warc-wacz/ncats-nih.wacz",
       "description": "NCATS as of 2026-06-29"
+    },
+    {
+      "name": "BioArt as of 2026-09-16",
+      "url": "https://g-1284b5.9601a.bd7c.data.globus.org/bioart-niaid-nih-warc-wacz/bioart-niaid-nih.wacz",
+      "description": "BioArt as of 2026-09-16"
     }
   ]
 }

@@ -189,14 +189,14 @@
       "description": "Office of Research on Women's Health as of 2026-04-20"
     },
     {
-      "name": "Genome as of 2026-04-20",
+      "name": "National Human Genome Research Institute as of 2026-04-20",
       "url": "https://g-1284b5.9601a.bd7c.data.globus.org/genome-dot-gov-warc-wacz/genome-dot-gov.wacz",
-      "description": "Genome as of 2026-04-20"
+      "description": "National Human Genome Research Institute as of 2026-04-20"
     },
     {
-      "name": "Cancer as of 2026-04-20",
+      "name": "Comprehensive Cancer Information as of 2026-04-20",
       "url": "https://g-1284b5.9601a.bd7c.data.globus.org/cancer-dot-gov-warc-wacz/cancer-dot-gov.wacz",
-      "description": "Cancer as of 2026-04-20"
+      "description": "Comprehensive Cancer Information as of 2026-04-20"
     }
   ]
 }

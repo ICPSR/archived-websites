@@ -177,6 +177,26 @@
       "name": "BioArt as of 2026-09-16",
       "url": "https://g-1284b5.9601a.bd7c.data.globus.org/bioart-niaid-nih-warc-wacz/bioart-niaid-nih.wacz",
       "description": "BioArt as of 2026-09-16"
+    },
+    {
+      "name": "NHLBI as of 2026-04-20",
+      "url": "https://g-1284b5.9601a.bd7c.data.globus.org/nhlbi-nih-warcs-wacz/nhlbi-nih.wacz",
+      "description": "NHLBI as of 2026-04-20"
+    },
+    {
+      "name": "Office of Research on Women's Health as of 2026-04-20",
+      "url": "https://g-1284b5.9601a.bd7c.data.globus.org/orwh-warcs-wacz/orwh.wacz",
+      "description": "Office of Research on Women's Health as of 2026-04-20"
+    },
+    {
+      "name": "Genome as of 2026-04-20",
+      "url": "https://g-1284b5.9601a.bd7c.data.globus.org/genome-dot-gov-warc-wacz/genome-dot-gov.wacz",
+      "description": "Genome as of 2026-04-20"
+    },
+    {
+      "name": "Cancer as of 2026-04-20",
+      "url": "https://g-1284b5.9601a.bd7c.data.globus.org/cancer-dot-gov-warc-wacz/cancer-dot-gov.wacz",
+      "description": "Cancer as of 2026-04-20"
     }
   ]
 }
